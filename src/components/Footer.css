@@ -1,0 +1,25 @@
+
+
+   .footer{
+
+     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 28px;
+    margin: 10px;
+   }
+
+   img{
+    width: 32px;
+      height: auto; 
+   }
+
+   img:hover{
+   
+    background-color:aquamarine;
+   }
+
+   .footer-1{
+     width: 500px;
+     height: 200px;
+   }
